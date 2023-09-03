@@ -10,4 +10,4 @@ Essentially, the following concepts are demonstrated:
 
 The web application can be started with `ionic serve`. The node modules must first be installed using `npm install`.
 
-You can get more Information on: https://uhwgmxorg.wordpress.com/2023/02/12/myionicbrowserstorager-node
+You can get more Information on: https://uhwgmxorg.wordpress.com/2023/09/03/myionicbrowserstorage/
