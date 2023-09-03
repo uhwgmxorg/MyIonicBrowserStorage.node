@@ -1,0 +1,7 @@
+{
+  "name": "my-ionic-browser-storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

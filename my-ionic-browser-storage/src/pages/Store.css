@@ -1,0 +1,40 @@
+.browser-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 3%;
+}
+
+.table-format {
+  margin-top: 10px;
+  margin-left: 15%;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.ion-card {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+ul {
+  margin-top: 10px;
+}
+
+li {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
